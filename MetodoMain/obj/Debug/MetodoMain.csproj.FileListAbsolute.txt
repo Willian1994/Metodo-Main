@@ -1,0 +1,6 @@
+C:\Users\wirioliveira\source\repos\MetodoMain\MetodoMain\bin\Debug\MetodoMain.exe.config
+C:\Users\wirioliveira\source\repos\MetodoMain\MetodoMain\bin\Debug\MetodoMain.exe
+C:\Users\wirioliveira\source\repos\MetodoMain\MetodoMain\bin\Debug\MetodoMain.pdb
+C:\Users\wirioliveira\source\repos\MetodoMain\MetodoMain\obj\Debug\MetodoMain.csproj.CoreCompileInputs.cache
+C:\Users\wirioliveira\source\repos\MetodoMain\MetodoMain\obj\Debug\MetodoMain.exe
+C:\Users\wirioliveira\source\repos\MetodoMain\MetodoMain\obj\Debug\MetodoMain.pdb
